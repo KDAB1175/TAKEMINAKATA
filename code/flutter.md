@@ -4,4 +4,4 @@ To help ensure security of the app, its up-to-date code base and features, anyon
 
 You can download flutter code from TAKEMINAKATA-flutter repo on this account. The url is: https://github.com/KDAB1175/TAKEMINAKATA-flutter/. 
 
-I will be making the release apk public soon, as well as publishing the app to the Google Play Store along with downloadable version for iOS. There will also be a website along with desktop apps for Linux and Windows.
+I will be making the release apk public soon, as well as publishing the app to the Google Play Store along with downloadable version for iOS. There will also be a website version of it, along with desktop apps for Linux and Windows.
