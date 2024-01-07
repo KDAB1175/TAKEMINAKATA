@@ -1,21 +1,23 @@
 # electronics
 
-I have so far inserted two files into this folder. Both are for designing electronic circuits in EasyEDA. As the time will go I will also add compiles for Altium designer
-(which I hope will work properly, you guys let me know) and gerber files.
+So far, there are files for EasyEDA electronics design. Files for other electronics design softwares will be added later (when added please let me know if they work in those softwares, I only have access to EasyEDA). I have also inserted the gerber file here.
 
-#if you want to edit and play with the files, read this section
+#if you want to make changes and/or improvements to the project on the electronics side, read this section
 
-For those of you wanting to get a bit more up close and personal with this project, you can edit both of the files so that they are up to your liking. TAKEMINAKATA.json is for schematics design
-and PCB_TAKEMINAKATA.json is for the design of the pcb. That is true at least in EasyEDA.
-
-If you want to alter certain parts of the schematic, because there is a problem in them, please let me know. Otherwise, have fun with it. I would also like to point out, that if you were to alter
-pinouts of buses and/or connections, you will most likely have to change some parts of future code too.
+You can of course alter any part of this project. If you find something worth addressing, such as something issue with some wiring or maybe just the sensor placement, please let me know.
 
 #if you just want to send the files to the manufacturer and don't worry about it, read this section
 
-For those of you who don't want to get a bit more up close and personal with this project, you can just send the gerber file to pcb manufacturer of your choice. All of them should accept gerber files.
-I will add parts list soon for you to buy.
+The gerber file, aka. the file you send to the manufacturer, is included below, all you need to do is go to JLCPCB website, or any other manufacturer's website and insert it in for them to make.
 
 #parts list
 
-- coming soon
+- ESP-32 (38 pin is default on the board, for other board sizes, consult the schematics)
+- SCD30
+- SCD40
+- SGP40 (version with 4 pins)
+- SHT85
+- DS18
+- MQ135
+
+For all components, consult the schematics to make sure they'll fit. For those that don't fit, wire it yourself if you want or consult someone who can do it instead, there is some quidance online that might also help you.
