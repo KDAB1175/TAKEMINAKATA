@@ -8,7 +8,7 @@ You can of course alter any part of this project. If you find something worth ad
 
 ### if you just want to send the files to the manufacturer and don't worry about it, read this section
 
-The gerber file, aka. the file you send to the manufacturer, is included below, all you need to do is go to JLCPCB website, or any other manufacturer's website and insert it in for them to make.
+The gerber file Gerber_PCB_TAKEMINAKATA.zip, aka. the file you send to the manufacturer, is included below, all you need to do is go to JLCPCB website, or any other manufacturer's website and insert it in for them to make.
 
 ### parts list
 
